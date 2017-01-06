@@ -1,0 +1,6 @@
+c:\users\jason\documents\visual studio 2015\Projects\LINQStatements\LINQStatements\bin\Debug\LINQStatements.exe.config
+c:\users\jason\documents\visual studio 2015\Projects\LINQStatements\LINQStatements\bin\Debug\LINQStatements.exe
+c:\users\jason\documents\visual studio 2015\Projects\LINQStatements\LINQStatements\bin\Debug\LINQStatements.pdb
+c:\users\jason\documents\visual studio 2015\Projects\LINQStatements\LINQStatements\obj\Debug\LINQStatements.csprojResolveAssemblyReference.cache
+c:\users\jason\documents\visual studio 2015\Projects\LINQStatements\LINQStatements\obj\Debug\LINQStatements.exe
+c:\users\jason\documents\visual studio 2015\Projects\LINQStatements\LINQStatements\obj\Debug\LINQStatements.pdb
